@@ -1,0 +1,52 @@
+body {
+  background: #e9d2d2;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding-top: 120px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.main-img 
+.cat {
+    width: 200px;
+    height: auto; 
+    display: block;
+    margin: 0 auto;   
+}
+
+.buttons {
+  margin-top: 30px;
+}
+
+button {
+  padding: 20px 40px;
+  font-size: 20px;
+  border: none;
+  border-radius: 40px;
+  margin: 10px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+#yesBtn {
+  background: #f6a5b5;
+}
+
+#noBtn {
+  background: #e0dcd6;
+}
+
+.hidden {
+  display: none;
+}
+
+.surprise-img {
+  width: 180px;
+  margin-top: 20px;
+}
+
